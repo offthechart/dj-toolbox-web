@@ -1,0 +1,129 @@
+    body {
+      font-size: 10pt;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-size: 14pt;
+      font-weight: bold;
+      font-family: Arial, sans-serif;
+    }
+    #header {
+      width: 100%;
+      float: left;
+    }
+    #tabs {
+      float: left;
+      width: 99%;
+    }
+    #header-left {
+      float: left;
+    }
+    #header-right {
+      text-align: right;
+      float: right;
+    }
+    .mini-header {
+      border-bottom: 1px #C0C0C0 solid;
+      font-weight: bold;
+    }
+    .mini-box {
+      margin: 2px;
+      border: 1px #C0C0C0 solid;
+      width: 31%;
+      float: left;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      padding: 5px;
+      margin-right: .7em;
+    }
+    .midi-box {
+      margin: 2px;
+      border: 1px #C0C0C0 solid;
+      width: 64%;
+      float: left;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      padding: 5px;
+      margin-right: .7em;
+    }
+    .maxi-box {
+      margin: 2px;
+      border: 1px #C0C0C0 solid;
+      width: 97%;
+      float: left;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      padding: 5px;
+      margin-right: .7em;
+    }
+    .row {
+      float: left;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .ui-autocomplete-loading {
+      background: white url('css/smoothness/images/ui-anim_basic_16x16.gif') right center no-repeat;
+    }
+    .ui-tabs .ui-tabs-nav li a {
+      padding: .4em .4em;
+      font-size: 12pt;
+    }
+    .ui-tabs .ui-tabs-panel {
+      padding: .5em .5em; 
+    }
+    #addtrack {
+      display: none;
+      margin-top: 10px;
+      margin-bottom: -10px;
+    }
+    #title-container {
+      display: none;
+    }
+    #submit-container {
+      display: none;
+    }
+    table.playlist {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: solid;
+      border-color: gray;
+      border-collapse: collapse;
+      background-color: white;
+      width: 100%;
+    }
+    table.playlist th {
+      border-width: 1px;
+      padding: 2px;
+      border-style: solid;
+      border-color: gray;
+      background-color: white;
+      -moz-border-radius: ;
+    }
+    table.playlist td {
+      border-width: 1px;
+      padding: 2px;
+      border-style: solid;
+      border-color: gray;
+      background-color: white;
+      -moz-border-radius: ;
+    }
+    #artist-edit {
+      display: none;
+    }
+    #lookup-noresults {
+      display: none;
+    }
+    #lookup-table-main {
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+    .playlist-playing {
+      font-style: italic;
+    }
+    #playlist-maxi {
+      margin-bottom: 150px;
+    }
+    #tabs {
+      margin-bottom: 50px;
+      min-height: 400px;
+    }
