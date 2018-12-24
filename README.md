@@ -12,7 +12,7 @@ This web application provided the means for DJs around the country (and the worl
 * Basic interactions with the station playout system
 * Requires jQuery 1.6.2, jQuery UI 1.8.16 and Smoothness CSS
 
-### Screenshots
+## Screenshots
 <img src="images/otc-toolbox-1.png" width="30%"></img> <img src="images/otc-toolbox-2.png" width="30%"></img> <img src="images/otc-toolbox-3.png" width="30%"></img>
 
 ## Questions?
